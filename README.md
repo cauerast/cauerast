@@ -4,7 +4,7 @@
 
 I'm an 18-year-old Computer Science student passionate about technology, web development, and system optimization. I enjoy solving problems through code and learning new technologies to build efficient, scalable solutions. Currently, I'm focusing on both frontend and backend development, working with technologies like React, Next.js, and TailwindCSS, while learning Node.js, Express, and database management. I'm also passionate about UI/UX, performance, and clean code.
 
-I share my knowledge through my [YouTube channel](https://www.youtube.com/@fxFlx), where I post content on technology, programming, and self-improvement.
+I share my knowledge through my [YouTube channel](https://www.youtube.com/@cauerast), where I post content on technology, programming, and self-improvement.
 
 <p align="left">
     <a href="https://www.youtube.com/@fxFlx?sub_confirmation=1">
@@ -14,7 +14,7 @@ I share my knowledge through my [YouTube channel](https://www.youtube.com/@fxFlx
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCSSp581nO5QJ03j1l-94K5Q?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@fxFlx">
+    <a href="https://www.youtube.com/@cauerast">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
@@ -73,12 +73,19 @@ I share my knowledge through my [YouTube channel](https://www.youtube.com/@fxFlx
 </br>
 </br>
 </br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 
 
 ### 🔗 Let's Connect!  
 - 📩 **Email:** cauerast@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/cauerast](https://www.linkedin.com/in/cauerast/)  
 - 💻 **GitHub:** [github.com/cauerast](https://github.com/cauerast)  
-- 🎥 **YouTube:** [youtube.com/@fxFlx](https://www.youtube.com/@fxFlx)
+- 🎥 **YouTube:** [youtube.com/@fxFlx](https://www.youtube.com/@cauerast)
 
 🚀 *Always open to collaboration and new opportunities!*
