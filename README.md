@@ -57,7 +57,7 @@ I share my knowledge through my [YouTube channel](https://www.youtube.com/@cauer
 ---
 
 ### 📊 Stats
-</br>
+
 
 <p>
   <img align="left" alt="GitHub Stats" height="200" style="padding: 10px;" src="https://github-readme-stats.vercel.app/api?username=cauerast&show_icons=true&theme=github_dark&include_all_commits=true&locale=en" />
