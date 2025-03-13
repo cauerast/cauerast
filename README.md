@@ -39,7 +39,7 @@ I share my knowledge through my [YouTube channel](https://www.youtube.com/@cauer
 
 ---
 
-### 🤖 Tech Stack
+### ⚪ Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
@@ -56,7 +56,7 @@ I share my knowledge through my [YouTube channel](https://www.youtube.com/@cauer
 
 ---
 
-### 📊 Stats
+### ⚪ Stats
 
 <p>
   <img align="left" alt="GitHub Stats" height="200" style="padding: 10px;" src="https://github-readme-stats.vercel.app/api?username=cauerast&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=en" />
