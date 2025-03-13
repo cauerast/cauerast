@@ -32,7 +32,7 @@ I share my knowledge through my [YouTube channel](https://www.youtube.com/@cauer
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/cauerast?color=000000&labelColor=141414&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/cauerast?color=141414&labelColor=000000&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
