@@ -2,11 +2,9 @@
 
 **`FullStack Developer`**
 
+I'm an 18-year-old Computer Science student passionate about technology, web development, and system optimization. I enjoy solving problems through code and learning new technologies to build efficient, scalable solutions. Currently, I'm focusing on both frontend and backend development, working with technologies like React, Next.js, and TailwindCSS, while learning Node.js, Express, and database management. I'm also passionate about UI/UX, performance, and clean code.
 
- **Full Stack Developer in Progress | Computer Science Student**  
-📍 Franca, SP | 🎓 Uni-FACEF | 🔗 [LinkedIn](https://www.linkedin.com/in/cau%C3%AA-rast-26bba22a6/)  
-
----
+I share my knowledge through my [YouTube channel](https://www.youtube.com/@fxFlx), where I post content on technology, programming, and self-improvement.
 
 <p align="left">
     <a href="https://www.youtube.com/@fxFlx?sub_confirmation=1">
@@ -38,88 +36,49 @@
         />
     </a>
 </p>
-
 ---
 
-## 💡⚪⚫◽ About Me  
-I'm an 18-year-old Computer Science student passionate about technology, web development, and system optimization. I enjoy solving problems through code and constantly learning new technologies to build efficient and scalable solutions.  
-I also share my knowledge through my [**YouTube channel**](https://www.youtube.com/@fxFlx)  , where I post content related to technology, programming, and self-improvement.
-
-- 🌐 **Aspiring Full Stack Developer**, focusing on both frontend and backend development  
-- 🖥️ **Frontend:** React, Next.js & TailwindCSS  
-- ⚙️ **Backend:** Learning Node.js, Express, and database management  
-- ⚡ **Passionate about UI/UX, performance, and clean code**  
-- 📌 **Currently learning:** Advanced JavaScript, backend fundamentals, and database optimization  
-- 🌎 **English:** Intermediate/Advanced (Improving every day!)
-
----
-
-## 🛠️ Tech Stack  
-
-💻 **Languages & Tools**  
+### 🤖 Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</p>  
-
-📚 **Currently Learning**  
-- Backend with Node.js & Express  
-- Database management (MongoDB & PostgreSQL)
-- adicione aqui que eu estou estudando tambem cybersegurança em vulnerabgilidade de sistemas etc
-
----
-
-## 🔗 Let's Connect!  
-- 📩 **Email:** cauerast@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/cauê-rast-26bba22a6](https://www.linkedin.com/in/cau%C3%AA-rast-26bba22a6/)  
-- 💻 **GitHub:** [github.com/cauerast](https://github.com/cauerast)  
-- 🎥 **YouTube:** [youtube.com/@fxFlx](https://www.youtube.com/@fxFlx)  
-
-🚀 *Always open to collaboration and new opportunities!* 
-
-
-
-<br/>
-<br/>
-
-### 📊 Statistics
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=cauerast&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauerast&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
-
 </p>
 
 ---
 
+### 📊 Stats
 
-## 🤩 Support
+<p>
+  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=cauerast&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img align="left" alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauerast&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" />
+</p>
 
-💙 If you like my projects, give them a ⭐ and share them with your friends!
+---
 
-[![YouTube](https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1 "Subscribe to my YouTube channel")
-[![Sponsor with Github](https://custom-icon-badges.demolab.com/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/sponsors/DenverCoder1 "Sponsor me on GitHub")
-[![Buy me a coffee](https://custom-icon-badges.demolab.com/badge/-Buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/jlawrence "Buy me a coffee")
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+### 🔗 Let's Connect!  
+- 📩 **Email:** cauerast@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/cauerast](https://www.linkedin.com/in/cauerast/)  
+- 💻 **GitHub:** [github.com/cauerast](https://github.com/cauerast)  
+- 🎥 **YouTube:** [youtube.com/@fxFlx](https://www.youtube.com/@fxFlx)
+
+🚀 *Always open to collaboration and new opportunities!*
