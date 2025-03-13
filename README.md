@@ -63,7 +63,7 @@ I share my knowledge through my [YouTube channel](https://www.youtube.com/@cauer
   <img align="left" alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauerast&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" />
 </p>
 
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
 
 ### 🔗 Let's Connect!  
