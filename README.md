@@ -11,21 +11,21 @@ I share my knowledge through my [YouTube channel](https://www.youtube.com/@cauer
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCSSp581nO5QJ03j1l-94K5Q?color=000000&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=141414"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCSSp581nO5QJ03j1l-94K5Q?color=141414&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=000000"
         />
     </a>
     <a href="https://www.youtube.com/@cauerast">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCSSp581nO5QJ03j1l-94K5Q?color=000000&logo=eye&logoColor=white&style=for-the-badge&labelColor=141414"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCSSp581nO5QJ03j1l-94K5Q?color=141414&logo=eye&logoColor=white&style=for-the-badge&labelColor=000000"
         />
     </a> 
     <a href="https://github.com/cauerast?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/cauerast?color=000000&style=for-the-badge&labelColor=141414&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/cauerast?color=141414&style=for-the-badge&labelColor=000000&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/cauerast?tab=followers">
@@ -59,9 +59,9 @@ I share my knowledge through my [YouTube channel](https://www.youtube.com/@cauer
 ### 📊 Stats
 
 <p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding: 10px;" src="https://github-readme-stats.vercel.app/api?username=cauerast&show_icons=true&theme=dark&include_all_commits=true&locale=en" />
+  <img align="left" alt="GitHub Stats" height="200" style="padding: 10px;" src="https://github-readme-stats.vercel.app/api?username=cauerast&show_icons=true&theme=graywhite&include_all_commits=true&locale=en" />
   
-  <img align="left" alt="Top Languages" height="200" style="padding: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauerast&theme=dark&layout=compact&custom_title=Technologies&langs_count=9" />
+  <img align="left" alt="Top Languages" height="200" style="padding: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauerast&theme=graywhite&layout=compact&custom_title=Technologies&langs_count=9" />
 </p>
 
 </br>
