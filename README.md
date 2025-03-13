@@ -11,28 +11,28 @@ I share my knowledge through my [YouTube channel](https://www.youtube.com/@cauer
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCSSp581nO5QJ03j1l-94K5Q?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCSSp581nO5QJ03j1l-94K5Q?color=000000&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=141414"
         />
     </a>
     <a href="https://www.youtube.com/@cauerast">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCSSp581nO5QJ03j1l-94K5Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCSSp581nO5QJ03j1l-94K5Q?color=000000&logo=eye&logoColor=white&style=for-the-badge&labelColor=141414"
         />
     </a> 
     <a href="https://github.com/cauerast?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/cauerast?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/cauerast?color=000000&style=for-the-badge&labelColor=141414&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/cauerast?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/cauerast?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/cauerast?color=000000&labelColor=141414&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -59,11 +59,30 @@ I share my knowledge through my [YouTube channel](https://www.youtube.com/@cauer
 ### 📊 Stats
 
 <p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=cauerast&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" />
-  <img align="left" alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauerast&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" />
+  <img align="left" alt="GitHub Stats" height="200" style="padding: 10px;" src="https://github-readme-stats.vercel.app/api?username=cauerast&show_icons=true&theme=dark&include_all_commits=true&locale=en" />
+  
+  <img align="left" alt="Top Languages" height="200" style="padding: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauerast&theme=dark&layout=compact&custom_title=Technologies&langs_count=9" />
 </p>
 
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 
 
 ### 🔗 Let's Connect!  
