@@ -60,8 +60,8 @@ I share my knowledge through my [YouTube channel](https://www.youtube.com/@cauer
 
 
 <p>
-  <img align="left" alt="GitHub Stats" height="180px" style="padding: 10px;" src="https://github-readme-stats.vercel.app/api?username=cauerast&show_icons=true&theme=github_dark&include_all_commits=true&locale=en" />
-  <img align="left" alt="Top Languages" height="180px" style="padding: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauerast&theme=github_dark&layout=compact&custom_title=Technologies&langs_count=9" />
+  <img align="left" alt="GitHub Stats" height="170px" style="padding: 10px;" src="https://github-readme-stats.vercel.app/api?username=cauerast&show_icons=true&theme=github_dark&include_all_commits=true&locale=en" />
+  <img align="left" alt="Top Languages" height="170px" style="padding: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauerast&theme=github_dark&layout=compact&custom_title=Technologies&langs_count=9" />
 </p>
 
 </br>
