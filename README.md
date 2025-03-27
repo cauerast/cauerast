@@ -48,7 +48,7 @@ I share my knowledge through my [YouTube channel](https://www.youtube.com/@cauer
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,next,nodejs,postgresql,mongodb,docker,git,ps,pr&perline=14&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,swift,kotlin,flutter,next,py,nodejs,mysql,mongodb,docker,git,ps,pr&perline=14&theme=dark" />
   </a>
 </p>
 
@@ -81,4 +81,4 @@ I share my knowledge through my [YouTube channel](https://www.youtube.com/@cauer
 - 💻 **GitHub:** [github.com/cauerast](https://github.com/cauerast)  
 - 🎥 **YouTube:** [youtube.com/@fxFlx](https://www.youtube.com/@cauerast)
 
-🚀 *Always open to collaboration and new opportunities!*
+🚀 *Open to collaboration and new opportunities!*
