@@ -7,7 +7,7 @@
 
 **`FullStack Developer`**
 
-I'm an 18-year-old Computer Science student passionate about technology, web development, and system optimization. I enjoy solving problems through code and learning new technologies to build efficient, scalable solutions. Currently, I'm focusing on both frontend and backend development, working with technologies like React, Next.js, and TailwindCSS, while learning Node.js, Express, and database management. I'm also passionate about UI/UX, performance, and clean code.
+I'm an 18-year-old Computer Science student passionate about technology, web development, and system optimization. I enjoy solving problems through code and learning new technologies to build efficient, scalable solutions. Currently, I'm focusing on both frontend and backend development, working with technologies like React, Next.js, and TailwindCSS, while learning Node.js, Express, and database management.
 
 I share my knowledge through my [YouTube channel](https://www.youtube.com/@cauerast), where I post content on technology, programming, and self-improvement.
 
