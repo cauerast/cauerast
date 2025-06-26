@@ -7,9 +7,9 @@
 
 **`FullStack Developer`**
 
-I'm an 18-year-old Computer Science student passionate about technology, web development, and system optimization. I enjoy solving problems through code and learning new technologies to build efficient, scalable solutions. Currently, I'm focusing on both frontend and backend development, working with technologies like React, Next.js, and TailwindCSS, while learning Node.js, Express, and database management.
+I'm an 18-year-old Computer Science student passionate about technology, web development, and system optimization. I enjoy solving problems through code and learning new technologies to build efficient, scalable solutions. Currently, I'm focusing on both frontend and backend development, working with technologies like React, Next.js, and Python, while learning Data Science, and database management.
 
-I share my knowledge through my [YouTube channel](https://www.youtube.com/@cauerast), where I post content on technology, programming, and self-improvement.
+I share my knowledge through my [YouTube channel](https://www.youtube.com/@cauerast), where I post content on technology, programming, and self-improvement (soon).
 
 <p align="left">
     <a href="https://www.youtube.com/@fxFlx?sub_confirmation=1">
@@ -75,10 +75,9 @@ I share my knowledge through my [YouTube channel](https://www.youtube.com/@cauer
 --- 
 
 
-### 🔗 Let's Connect!  
-- 📩 **Email:** cauerast@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/cauerast](https://www.linkedin.com/in/cauerast/)  
-- 💻 **GitHub:** [github.com/cauerast](https://github.com/cauerast)  
-- 🎥 **YouTube:** [youtube.com/@fxFlx](https://www.youtube.com/@cauerast)
+###  Let's Connect!  
+-  **Email:** cauerast@gmail.com
+-  **LinkedIn:** [linkedin.com/in/cauerast](https://www.linkedin.com/in/cauerast/) 
+-  **YouTube:** [youtube.com/@fxFlx](https://www.youtube.com/@cauerast)
 
-🚀 *Open to collaboration and new opportunities!*
+ *Open to collaboration!*
