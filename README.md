@@ -1,83 +1,23 @@
-# 👨🏻‍💻 Cauê R.
-<p align="center">
+# 👨🏻‍💻 **Caue R.**
 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20developer;Experienced%20Graphic%20Designer;1%2B%20year%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22&text-align=center"/></a>
-</p>
+```Automation | AI & Data | Aways learning ```
 
-**`FullStack Developer`**
+Studying a Bachelor's Degree in Computer Science (2nd/8th semester) at Uni-FACEF, technology enthusiast, passionate about music, purpose, challenges and getting ideas off the ground through code.
 
-I'm an 18-year-old Computer Science student passionate about technology, development, and system optimization. I enjoy solving problems through code and learning new technologies to build efficient, scalable solutions. Currently, I'm focusing on both frontend and backend development, working with technologies like React, Next.js, and Python, while learning Data Science, and database management.
+I share my knowledge through my YouTube channel, where I post content on technology, programming, and self-improvement: (soon) [https://www.youtube.com/@cauerast](https://www.youtube.com/@cauerast). 
 
-I share my knowledge through my [YouTube channel](https://www.youtube.com/@cauerast), where I post content on technology, programming, and self-improvement (soon).
+### Reach Me
+- **Email:** [cauerast@gmail.com](mailto:cauerast@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/cauerast](https://www.linkedin.com/in/cauerast/)  
 
-<p align="left">
-    <a href="https://www.youtube.com/@fxFlx?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCSSp581nO5QJ03j1l-94K5Q?color=141414&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=000000"
-        />
-    </a>
-    <a href="https://www.youtube.com/@cauerast">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCSSp581nO5QJ03j1l-94K5Q?color=141414&logo=eye&logoColor=white&style=for-the-badge&labelColor=000000"
-        />
-    </a> 
-    <a href="https://github.com/cauerast?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/cauerast?color=141414&style=for-the-badge&labelColor=000000&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/cauerast?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/cauerast?color=141414&labelColor=000000&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
-### ⚙️ Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,next,py,nodejs,mysql,mongodb,git,ps,pr&perline=14&theme=dark" />
-  </a>
-</p>
-
----
-
-### 📊 Stats
+### Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,python,react,tailwind,nodejs,mysql,mongodb,aws,docker,git,ps)](https://skillicons.dev)
 
 
-<p>
-  <img align="left" alt="GitHub Stats" height="170px" style="padding: 10px;" src="https://github-readme-stats.vercel.app/api?username=cauerast&show_icons=true&theme=github_dark&include_all_commits=true&locale=en" />
-  <img align="left" alt="Top Languages" height="170px" style="padding: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauerast&theme=github_dark&layout=compact&custom_title=Technologies&langs_count=9" />
-</p>
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+### Community
+https://discord.gg/kEvDQZC6
 
---- 
-
-
-###  Let's Connect!  
--  **Email:** cauerast@gmail.com
--  **LinkedIn:** [linkedin.com/in/cauerast](https://www.linkedin.com/in/cauerast/) 
--  **YouTube:** [youtube.com/@fxFlx](https://www.youtube.com/@cauerast)
-
- *Open to collaboration!*
+### Languages
+![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") **Native Portuguese**  
+![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") **Advanced English**  
