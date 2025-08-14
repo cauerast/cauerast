@@ -1,4 +1,4 @@
-# 👨🏻‍💻 **Caue R.**
+# 👨🏻‍💻 **Cauê R.**
 
 ```Automation | AI & Data | Aways learning ```
 
