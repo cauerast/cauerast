@@ -1,6 +1,6 @@
 # 👨🏻‍💻 **Cauê R.**
 
-```Automation | AI & Data | Aways learning ```
+``` Aways learning ```
 
 Studying a Bachelor's Degree in Computer Science (2nd/8th semester) at Uni-FACEF, technology enthusiast, passionate about music, purpose, challenges and getting ideas off the ground through code.
 
