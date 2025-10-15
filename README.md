@@ -11,7 +11,7 @@ I share my knowledge through my YouTube channel, where I post content on technol
 - **LinkedIn:** [linkedin.com/in/cauerast](https://www.linkedin.com/in/cauerast/)  
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,python,react,tailwind,nodejs,mysql,mongodb,linux,docker,git,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,next,express,react,python,tailwind,nodejs,mysql,mongodb,linux,docker,git,ps)](https://skillicons.dev)
 
 
 
