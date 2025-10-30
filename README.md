@@ -16,7 +16,7 @@ I’m constantly improving my technical skills and contributing to scalable, and
 - **LinkedIn:** [linkedin.com/in/cauerast](https://www.linkedin.com/in/cauerast/)  
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,js,next,express,react,python,FastAPI,tailwind,nodejs,mysql,mongodb,linux,docker,git,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,next,express,react,python,API,tailwind,nodejs,mysql,mongodb,linux,docker,git,ps)](https://skillicons.dev)
 
 
 
