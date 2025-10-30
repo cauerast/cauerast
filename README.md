@@ -2,16 +2,21 @@
 
 ``` Aways learning ```
 
-Studying a Bachelor's Degree in Computer Science (2nd/8th semester) at Uni-FACEF, technology enthusiast, passionate about music, purpose, challenges and getting ideas off the ground through code.
+Developer focused on modern frontend and backend technologies, currently pursuing a Bachelor’s Degree in Computer Science (2nd semester) at Uni-FACEF.
 
-I share my knowledge through my YouTube channel, where I post content on technology, programming, and self-improvement: (soon) [https://www.youtube.com/@cauerast](https://www.youtube.com/@cauerast). 
+I have hands-on experience developing user interfaces with React.js and REST APIs using FastAPI, applying clean architecture principles, Git version control, and system integration best practices.
+
+I’ve worked on automation projects aimed at process optimization and performance improvement, and I’m also a medalist in competitive programming marathons (beecrowd), with a strong foundation in data structures and algorithms.
+
+I’m constantly improving my technical skills and contributing to scalable, and high-performance software solutions.
+
 
 ### Reach Me
 - **Email:** [cauerast@gmail.com](mailto:cauerast@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/cauerast](https://www.linkedin.com/in/cauerast/)  
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,js,next,express,react,python,tailwind,nodejs,mysql,mongodb,linux,docker,git,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,next,express,react,python,FastAPI,tailwind,nodejs,mysql,mongodb,linux,docker,git,ps)](https://skillicons.dev)
 
 
 
