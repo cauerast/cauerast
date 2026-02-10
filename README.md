@@ -21,7 +21,7 @@ I’m constantly improving my technical skills and contributing to scalable, and
 - **LinkedIn:** [linkedin.com/in/cauerast](https://www.linkedin.com/in/cauerast/)  
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,js,next,express,react,tailwind,java,nodejs,n8n,sqlite,linux,docker,git,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,js,next,express,react,tailwind,java,nodejs,sqlite,linux,docker,git,ps)](https://skillicons.dev)
 
 ### Languages
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") **Native Portuguese**  
