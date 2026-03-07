@@ -5,8 +5,6 @@
 
 <br>
 
-Passionate about building high-performance software, artificial intelligence, and content creation. Aways improving my skills.
-
 Studying a Bachelor's Degree in Computer Science (3rd/8th semester) at Uni-FACEF University, passionate about improve my skills, purpose, leetcode, tech, music, content creation and taking ideas off paper through code.
 
 
