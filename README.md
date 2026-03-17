@@ -18,7 +18,7 @@ Studying a Bachelor's Degree in Computer Science (3rd/8th semester) at Uni-FACEF
 ### Languages
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") **Native Portuguese**  
 ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") **Advanced English**  
-![Japan](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/jp.png "Japan") **Japanese — N5/N4 (Student)**
+![Japan](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/jp.png "Japan") **Japanese - N5/N4 (Student)**
 
 ### 📈 Contribution Graph
 
