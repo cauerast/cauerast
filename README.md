@@ -1,7 +1,7 @@
 # 👨🏻‍💻 **Cauê R.**
 
 
-`Fullstack Developer` · `AI & Automation` · `CS Student @ Uni-FACEF`
+`Fullstack Developer` · `CS Student @ Uni-FACEF`
 
 <br>
 
