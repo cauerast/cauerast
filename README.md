@@ -13,7 +13,7 @@ Studying a Bachelor's Degree in Computer Science (3rd/8th semester) at Uni-FACEF
 - **LinkedIn:** [linkedin.com/in/cauerast](https://www.linkedin.com/in/cauerast/)  
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=swift,python,flask,ts,react,next,nest,spring,postgresql,supabase,c,apple,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nest,ts,react,next,spring,maven,postgresql,swift,c,apple,docker,kubernetes,git)](https://skillicons.dev)
 
 ### Languages
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") **Native Portuguese**  
