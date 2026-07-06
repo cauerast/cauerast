@@ -5,7 +5,7 @@
 
 <br>
 
-Studying a Bachelor's Degree in Computer Science (3rd/8th semester) at Uni-FACEF University, passionate about improving my skills, purpose, challenges, tech, music, math, content creation and bringing ideas to life through code.
+Studying a Bachelor's Degree in Computer Science (4th/8th semester) at Uni-FACEF University, passionate about improving my skills, purpose, challenges, tech, music, math, content creation and bringing ideas to life through code.
 
 
 ### Reach Me
