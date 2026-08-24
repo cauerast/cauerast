@@ -34,7 +34,7 @@ Always learning something new, currently deepening my knowledge of System Design
 
 **Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,java,spring,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,ts,prisma)](https://skillicons.dev)
 
 **Mobile**
 
