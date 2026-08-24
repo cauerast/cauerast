@@ -1,7 +1,7 @@
 # 👨🏻‍💻 **Cauê R.**
 
 
-`Fullstack Developer` · `CS Student @ Uni-FACEF`
+`Software Developer` · `CS Student @ Uni-FACEF`
 
 <br>
 
