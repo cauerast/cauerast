@@ -12,7 +12,7 @@
 
 <br>
 
-## Sobre mim
+## About me
 <p>
 I work with full-stack development, native iOS applications, and process automation.
 I build administrative systems, bots/automations, and complete web applications for clients and personal projects.
