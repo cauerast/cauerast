@@ -1,24 +1,24 @@
 
 <h1 align="center">👨🏻‍💻 Cauê R.</h1>
 
-<p align="center">
+<p>
   <code>Software Engineer</code> · <code>Full Stack & Mobile Developer</code> · <code>CS Student @ Uni-FACEF</code>
 </p>
 
-<p align="center">
-  Estudante de Ciência da Computação (4th/8th semestre) na Uni-FACEF,
-  apaixonado por desenvolver soluções escaláveis,
-  transformar ideias em produtos e automatizar processos.
+<p>
+  Computer Science student (4th/8th semester) at Uni-FACEF, passionate about building scalable
+  solutions, turning ideas into products and automating processes.
 </p>
 
 <br>
 
 ## Sobre mim
-
-Atuo com desenvolvimento **full stack**, aplicativos **iOS nativos** e **automação de processos**.
-Entrego sistemas administrativos, bots/automações e aplicações web completas para clientes e projetos autorais.
-Interesses em tecnologia, música, produção de conteúdo, machine learning e novos desafios. 
-Sempre estudando algo novo, atualmente evoluindo em System design e cloud (AWS).
+<p>
+I work with full-stack development, native iOS applications, and process automation.
+I build administrative systems, bots/automations, and complete web applications for clients and personal projects.
+Interested in technology, music, content creation, machine learning, and new challenges.
+Always learning something new, currently deepening my knowledge of System Design and Cloud Computing (AWS).
+</p>
 
 <br>
 
@@ -44,15 +44,15 @@ Sempre estudando algo novo, atualmente evoluindo em System design e cloud (AWS).
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css)](https://skillicons.dev)
 
-**Dados & Banco**
+**Data & Databases**
 
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,sqlite)](https://skillicons.dev)
 
-**DevOps, Cloud & Automação**
+**DevOps, Cloud & Automation**
 
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,githubactions)](https://skillicons.dev)
 
-> ⚙️ Automação de fluxos e integrações com **n8n**
+> ⚙️ Workflow automation and integrations with **n8n**
 
 <br>
 
@@ -66,9 +66,10 @@ Sempre estudando algo novo, atualmente evoluindo em System design e cloud (AWS).
 
 ## GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cauerast&theme=tokyonight&hide_border=true" alt="Cauê's GitHub Streak" height="165"/>
 </p>
+-->
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -79,5 +80,5 @@ Sempre estudando algo novo, atualmente evoluindo em System design e cloud (AWS).
 <br>
 
 <p align="center">
-  <i>Sempre aberto a conversas sobre desenvolvimento de software, System design ,automação e novas tecnologias :) </i>
+  <i>Always open to conversations about software development, System Design, automation, and emerging technologies :) </i>
 </p>
