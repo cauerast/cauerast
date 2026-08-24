@@ -1,5 +1,5 @@
 
-<h1 align="center">👨🏻‍💻 Cauê R.</h1>
+<h1>👨🏻‍💻 Cauê R.</h1>
 
 <p>
   <code>Software Engineer</code> · <code>Full Stack & Mobile Developer</code> · <code>CS Student @ Uni-FACEF</code>
