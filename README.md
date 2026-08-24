@@ -42,7 +42,7 @@ Always learning something new, currently deepening my knowledge of System Design
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,js,html,css)](https://skillicons.dev)
 
 **Data & Databases**
 
