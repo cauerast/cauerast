@@ -2,7 +2,7 @@
 <h1 align="center">👨🏻‍💻 Cauê R.</h1>
 
 <p>
-  <code>Software Engineer</code> · <code>Back end & Mobile Developer</code> · <code>CS Student @ Uni-FACEF</code>
+  <code>Software Engineer</code> · <code>Back-end & Mobile Developer</code> · <code>CS Student @ Uni-FACEF</code>
 </p>
 
 <p>
