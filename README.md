@@ -14,7 +14,7 @@
 
 ## About me
 <p>
-I work with full-stack development, native iOS applications, and process automation.
+I work with back-end development, native iOS applications, and process automation.
 I build administrative systems, bots/automations, and complete web applications for clients and personal projects.
 Interested in technology, music, content creation, machine learning, and new challenges.
 Always learning something new, currently deepening my knowledge of System Design and Cloud Computing (AWS).
